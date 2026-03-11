@@ -1,0 +1,14 @@
+1 | Boleta | -
+WQE | Factura | 12121212121
+DSA | Boleta | -
+DASD | Boleta | -
+asd | Boleta | -
+Carlos | Factura | 12463246891
+Carlos | Factura | 12463246891
+Carlos | Factura | 12463246891
+ADSD | Boleta | -
+DSFD | Boleta | -
+ASD | Factura | 13213121212
+3232 | Boleta | -
+das | Boleta | -
+dsa | Boleta | -

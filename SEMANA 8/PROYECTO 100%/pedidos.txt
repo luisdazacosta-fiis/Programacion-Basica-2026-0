@@ -1,0 +1,54 @@
+========================================
+Cliente: Carlos
+Documento: Factura
+Atendido por: Hugo (Cajero)
+----------------------------------------
+Salchibrosther | 1 | 16
+TOTAL: S/ 16
+========================================
+
+========================================
+Cliente: ADSD
+Documento: Boleta
+Atendido por: AD (Mesero)
+----------------------------------------
+Bebida Cocona | 1 | 2
+TOTAL: S/ 2
+========================================
+
+========================================
+Cliente: DSFD
+Documento: Boleta
+Atendido por: FSD (Cajero)
+----------------------------------------
+Brosther Pecho | 1 | 12
+TOTAL: S/ 12
+========================================
+
+========================================
+Cliente: ASD
+Documento: Factura
+Atendido por: FSD (Cajero)
+----------------------------------------
+Brosther E-Pierna | 1 | 11
+TOTAL: S/ 11
+========================================
+
+========================================
+Cliente: das
+Documento: Boleta
+Atendido por: 3124 (Mesero)
+----------------------------------------
+Brosther Pecho | 1 | 12
+TOTAL: S/ 12
+========================================
+
+========================================
+Cliente: dsa
+Documento: Boleta
+Atendido por: dsad (Cajero)
+----------------------------------------
+Brosther Pecho | 1 | 12
+TOTAL: S/ 12
+========================================
+

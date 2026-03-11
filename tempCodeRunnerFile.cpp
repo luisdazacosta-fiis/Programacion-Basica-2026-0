@@ -1,24 +1,14 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
 int main() {
-    string nombre, carrera;
-    int edad;
+    int x,c=0,s=0;
 
-    cout << "Ingrese su nombre completo: ";
-    getline(cin, nombre);
-
-    cout << "Ingrese su edad: ";
-    cin >> edad;
-
-    cout << "Ingrese su carrera: ";
-    getline(cin, carrera);
-
-    cout << "\n--- FORMULARIO REGISTRADO ---\n";
-    cout << "Nombre: " << nombre << endl;
-    cout << "Edad: " << edad << endl;
-    cout << "Carrera: " << carrera << endl;
-
-    return 0;
+    while(true){
+        cout << "Ingrese numero (-1 termina): ";
+        cin >> x;
+        if(x==-1) break;
+        s+=x; c++;
+    }
+    if(c>0) cout << "Promedio: " << (double)s/c;
 }
